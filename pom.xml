@@ -39,9 +39,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:mindmatters0306/DevOps-wreck.git</connection>
-		<developerConnection>scm:git:git@github.com:mindmatters0306/DevOps-wreck.git</developerConnection>
-		<url>git@github.com:mindmatters0306/DevOps-wreck.git</url>
+		<connection>scm:git:git@github.com:saisagar-devops/pams-task.git</connection>
+		<developerConnection>scm:git:git@github.com:saisagar-devops/pams-task.git</developerConnection>
+		<url>git@github.com:saisagar-devops/pams-task.git</url>
 		<tag>v1.6.1</tag>
 	</scm>
 
